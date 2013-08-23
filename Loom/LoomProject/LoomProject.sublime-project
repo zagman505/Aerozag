@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "/",
+			"file_exclude_patterns":
+			[
+				"*.sublime-workspace",
+				"*.gitignore",
+				"main.ls"
+			],
+			"folder_exclude_patterns":
+			[
+				"bin",
+				"libs",
+				"logs",
+				".git"
+			]
+		}
+	]
+}
